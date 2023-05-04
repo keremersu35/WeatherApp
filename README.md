@@ -9,6 +9,9 @@ nem oranı, rüzgar hızı ve diğer önemli hava koşulları da uygulama üzeri
 
 ## Uygulama İçi Görüntüler
 
+<img src="https://github.com/keremersu35/WeatherApp/blob/main/weather%20assets/1.gif" width="270" height="590"> <img src="https://github.com/keremersu35/WeatherApp/blob/main/weather%20assets/2.gif" width="270" height="590"> <img src="https://github.com/keremersu35/WeatherApp/blob/main/weather%20assets/3.gif" width="270" height="590"> 
+</br> </br>
+
 <img src="weather assets/splash.png" width="270" height="590"> <img src="weather assets/home.png" width="270" height="590"> <img src="weather assets/search.png" width="270" height="590"> 
 <img src="weather assets/search_detail.png" width="270" height="590"> <img src="weather assets/weekly.png" width="270" height="590">
 
