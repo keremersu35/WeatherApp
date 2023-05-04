@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "flutilities",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nickelfox/FLUtilities",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a16a0cba058a6f4e2fa62cfdcfd082394f67bd8d"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a205eec34df7cb6155dadd93055f54349695a39c"
+      }
+    }
+  ],
+  "version" : 2
+}
