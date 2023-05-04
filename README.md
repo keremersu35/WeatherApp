@@ -7,3 +7,8 @@ Uygulamayı kullanmak oldukça basit: İlk açılışta konum izni istenir, izin
 Kullanıcı, uygulama üzerinden arama yaparak başka bir şehrin hava durumunu da öğrenebilir. Ayrıca, günlük hava durumu tahminleri yanı sıra hava sıcaklığı,
 nem oranı, rüzgar hızı ve diğer önemli hava koşulları da uygulama üzerinde görüntülenebilir.
 
+## Uygulama İçi Görüntüler
+
+<img src="weather assets/splash.png" width="270" height="590"> <img src="weather assets/home.png" width="270" height="590"> <img src="weather assets/search.png" width="270" height="590"> 
+<img src="weather assets/search_detail.png" width="270" height="590"> <img src="weather assets/weekly.png" width="270" height="590"> 
+
